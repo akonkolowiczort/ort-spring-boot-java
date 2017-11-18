@@ -1,0 +1,25 @@
+# Compiled source #
+###################
+*.class
+target/
+
+# Intellij files and folders #
+#############################
+*.iml
+.idea/
+
+# Package Files #
+#################
+*.jar
+
+# Logs #
+########
+*.log
+logs/
+*.log.gz
+
+.mvn/
+
+# random junk files
+.DS_STORE
+
